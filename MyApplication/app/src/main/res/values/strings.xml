@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enterId">아이디를 입력해주세요</string>
+    <string name="enterPw">비밀번호를 입력해주세요</string>
+    <string name="enterEmail">이메일을 입력해주세요</string>
+    <string name="enterName">이름을 입력해주세요</string>
+</resources>
